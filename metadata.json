@@ -1,0 +1,5 @@
+{
+  "name": "AI Healthcare Assistant",
+  "description": "A web application to assess potential health risks and provide AI-generated wellness advice. This tool is for informational purposes only and not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
